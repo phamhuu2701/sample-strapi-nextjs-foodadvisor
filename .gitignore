@@ -1,0 +1,6 @@
+.DS_STORE
+
+.env
+
+yarn.lock
+package-lock.json
